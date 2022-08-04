@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://homext.github.io/modern-garage/sitemapx.xml
